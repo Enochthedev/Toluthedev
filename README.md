@@ -14,8 +14,8 @@ I'm a computer science major currently. I work mainly with python but I'm quite 
 * 🤝  I'm open to collaborating on any project
 * ⚡  I love learning new languages and im quite intriged by AI and blockchain technology
 
-<a href="https://www.twitter.com/toluthedev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/toluthedev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
+<a href="https://www.twitter.com/itdefwave" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/itsdefwave?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
 
 ### Skills
