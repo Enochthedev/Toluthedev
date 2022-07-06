@@ -12,6 +12,7 @@ I'm a computer science major currently. I work mainly with python but I'm quite 
 * ✉️  You can contact me at [enochjesse884@outlook.com](mailto:enochjesse884@outlook.com)
 * 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on any project
+* ⚡  Music enthusiast, i sing and write songs occasionally
 * ⚡  I love learning new languages and im quite intriged by AI and blockchain technology
 
 <a href="https://www.twitter.com/itdefwave" target="_blank" rel="noreferrer"><img
