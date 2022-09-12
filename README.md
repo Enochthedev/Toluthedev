@@ -5,7 +5,7 @@ Hi 👋 My name is Enoch Omosebi
 Back end Developer
 ------------------
 
-<a href="https://app.daily.dev/Toluthedev"><img src="https://api.daily.dev/devcards/53fb4485480840fcaa61681fe6f3419c.png?r=w4u" width="400" alt="Enoch's Dev Card"/></a>
+
 
 I'm a computer science major currently. I work mainly with python but I'm quite flexible (if need be) on any project I take on. My main focus on any project is the back-end
 
@@ -17,12 +17,31 @@ I'm a computer science major currently. I work mainly with python but I'm quite 
 * ⚡  Music enthusiast, i sing and write songs occasionally
 * ⚡  I love learning new languages and im quite intriged by AI and blockchain technology
 
-<a href="https://www.twitter.com/itdefwave" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/itsdefwave?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
-/></a>
+
+<div align="left">
+  <a href="https://www.twitter.com/itdefwave" target="_blank" rel="noreferrer"><img
+   src="https://img.shields.io/twitter/follow/itsdefwave?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
+   /></a>
+  <a href="https://www.linkedin.com/in/enoch-omosebi-b68687224/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://app.daily.dev/Toluthedev" target="_blank">
+    <img
+      width="256"
+      alt="Enoch's Dev Card"
+      align="right"
+      src="https://api.daily.dev/devcards/53fb4485480840fcaa61681fe6f3419c.png?r=w4u"g"
+    />
+  </a>
+</div>
+
 
 ### Skills
-
+<div>
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -39,10 +58,12 @@ src="https://img.shields.io/twitter/follow/itsdefwave?logo=twitter&style=for-the
 </p>
 
 
+
+
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Wave#1631" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Enochthedev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://Toluthedev.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/enoch-omosebi-b68687224/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17398424/tolu-the-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://twitter.com/itsdefWave" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
+</div>
 ### Badges
 
 <b>My GitHub Stats</b>
