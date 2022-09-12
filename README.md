@@ -34,7 +34,7 @@ I'm a computer science major currently. I work mainly with python but I'm quite 
       width="256"
       alt="Enoch's Dev Card"
       align="right"
-      src="https://api.daily.dev/devcards/53fb4485480840fcaa61681fe6f3419c.png?r=w4u"g"
+      src="https://github.com/Enochthedev/Enochthedev/blob/main/devcard.svg"
     />
   </a>
 </div>
