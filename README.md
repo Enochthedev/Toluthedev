@@ -5,6 +5,8 @@ Hi 👋 My name is Enoch Omosebi
 Back end Developer
 ------------------
 
+<a href="https://app.daily.dev/Toluthedev"><img src="https://api.daily.dev/devcards/53fb4485480840fcaa61681fe6f3419c.png?r=w4u" width="400" alt="Enoch's Dev Card"/></a>
+
 I'm a computer science major currently. I work mainly with python but I'm quite flexible (if need be) on any project I take on. My main focus on any project is the back-end
 
 * 🌍  I'm based in Lagos, Nigeria
