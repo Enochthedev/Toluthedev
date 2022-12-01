@@ -12,7 +12,7 @@ I'm currently an undergrad majoring in computer science. I work mainly with pyth
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [Toluthedev](http://enochthedev.github.io/portfolio/)
 * ✉️  You can contact me at [enochjesse884@outlook.com](mailto:enochjesse884@outlook.com)
-* 🧠  I'm learning Django
+* 🧠  I'm learning Nodejs
 * 🤝  I'm open to collaborating on any project
 * ⚡  Music enthusiast, i sing and write songs occasionally
 * ⚡  I love learning new languages and im quite intriged by AI and blockchain technology
