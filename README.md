@@ -10,7 +10,7 @@ Back end Developer
 I'm currently an undergrad majoring in computer science. I work mainly with python but I'm quite flexible (if need be) on any project I take on. My main focus on any project is the back-end
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [Toluthedev](http://enochthedev.github.io/portfolio/)
+* 🖥️  See my portfolio at [Toluthedev](toluthedev.tech)
 * ✉️  You can contact me at [enochjesse884@outlook.com](mailto:enochjesse884@outlook.com)
 * 🧠  I'm learning Nodejs
 * 🤝  I'm open to collaborating on any project
