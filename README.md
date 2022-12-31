@@ -75,6 +75,7 @@ I'm currently an undergrad majoring in computer science. I work mainly with pyth
 
 
 <a href="http://www.github.com/Enochthedev"><img src="[![Enoch's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Enochthedev&theme=dracula)](https://github.com/Enochthedev/github-readme-activity-graph)" /></a>
+<a>[![Enoch's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Enochthedev&theme=dracula)](https://github.com/Enochthedev/github-readme-activity-graph)</a>
 
 <a href="https://github.com/Enochthedev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enochthedev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
