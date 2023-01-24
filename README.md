@@ -19,7 +19,7 @@ I'm currently an undergrad majoring in computer science. I work mainly with pyth
 
 
 <div align="left">
-  <a href="https://www.twitter.com/itdefwave" target="_blank" rel="noreferrer"><img
+  <a href="https://www.twitter.com/itsdefwave" target="_blank" rel="noreferrer"><img
    src="https://img.shields.io/twitter/follow/itsdefwave?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
    /></a>
   <a href="https://www.linkedin.com/in/enoch-omosebi-b68687224/">
