@@ -7,7 +7,7 @@ Back end Developer
 
 
 
-I'm currently an undergrad majoring in computer science. I work mainly with python but I'm quite flexible (if need be) on any project I take on. My main focus on any project is the back-end
+I'm a massive tech geek that works with any language depending on the situation. I work mainly with python and javascript on any project I take on. My main role is as a backend developer.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [Toluthedev](https://www.toluthedev.tech/)
