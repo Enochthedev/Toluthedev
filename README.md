@@ -9,7 +9,7 @@ Back end Developer
 
 I'm a massive tech geek that works with any language depending on the situation. I work mainly with python and javascript on any project I take on. My main role is as a backend developer.
 
-* 🌍  I'm based in Lagos, Nigeria
+* 🌍  I'm currently a remote based dev
 * 🖥️  See my portfolio at [Toluthedev](https://www.toluthedev.tech/)
 * ✉️  You can contact me at [enochjesse884@outlook.com](mailto:enochjesse884@outlook.com)
 * 🧠  I'm learning Nodejs
