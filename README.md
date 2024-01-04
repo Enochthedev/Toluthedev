@@ -1,4 +1,4 @@
-# Toluthedev
+# Wavethedev
 Hi 👋 My name is Enoch Omosebi
 ==============================
 
@@ -7,15 +7,15 @@ Back end Developer
 
 
 
-I'm a massive tech geek that works with any language depending on the situation. I work mainly with python and javascript on any project I take on. My main role is as a backend developer.
+Geek for clicks and scripts.Will work with javascript and typescript, slave to python and kneel with GoLang. Backend developer, humor me on this one "what is sunlight?".
 
-* 🌍  I'm currently a remote based dev
+* 🌍  Remote but willing to move 
 * 🖥️  See my portfolio at [Toluthedev](https://www.toluthedev.tech/)
 * ✉️  You can contact me at [enochjesse884@outlook.com](mailto:enochjesse884@outlook.com)
 * 🧠  I'm learning Nodejs
 * 🤝  I'm open to collaborating on any project
-* ⚡  Music enthusiast, i sing and write songs occasionally
-* ⚡  I love learning new languages and im quite intriged by AI and blockchain technology
+* ⚡  Music enthusiast, i sing and write songs occasionally (depends on my pain during debugging)
+* ⚡  I love learning new languages and yes I love AI 
 
 
 <div align="left">
