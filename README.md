@@ -5,8 +5,6 @@ Hi 👋 My name is Enoch Omosebi
 Back end Developer
 ------------------
 
-
-
 Geek for clicks and scripts.Will work with javascript and typescript, slave to python and kneel with GoLang. Backend developer, humor me on this one "what is sunlight?".
 
 * 🌍  Remote but willing to move 
