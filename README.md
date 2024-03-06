@@ -12,7 +12,7 @@ Geek for clicks and scripts.Will work with javascript and typescript, slave to p
 * 🌍  Remote but willing to move 
 * 🖥️  See my portfolio at [Toluthedev](https://www.toluthedev.tech/)
 * ✉️  You can contact me at [enochjesse884@outlook.com](mailto:enochjesse884@outlook.com)
-* 🧠  I'm learning Nodejs
+* 🧠  I'm learning golang
 * 🤝  I'm open to collaborating on any project
 * ⚡  Music enthusiast, i sing and write songs occasionally (depends on my pain during debugging)
 * ⚡  I love learning new languages and yes I love AI 
