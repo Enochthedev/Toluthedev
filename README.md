@@ -1,4 +1,4 @@
-# Wavethedev
+# Wave
 Hi 👋 My name is Enoch Omosebi
 ==============================
 
@@ -11,7 +11,7 @@ Geek for clicks and scripts.Will work with javascript and typescript, slave to p
 
 * 🌍  Remote but willing to move 
 * 🖥️  See my portfolio at [Toluthedev](https://www.toluthedev.tech/)
-* ✉️  You can contact me at [enochjesse884@outlook.com](mailto:enochjesse884@outlook.com)
+* ✉️  You can contact me at [wavedidwhat@gmail.com](mailto:wavedidwhat@gmail.com)
 * 🧠  I'm learning golang
 * 🤝  I'm open to collaborating on any project
 * ⚡  Music enthusiast, i sing and write songs occasionally (depends on my pain during debugging)
@@ -20,7 +20,7 @@ Geek for clicks and scripts.Will work with javascript and typescript, slave to p
 
 <div align="left">
   <a href="https://www.twitter.com/itsdefwave" target="_blank" rel="noreferrer"><img
-   src="https://img.shields.io/twitter/follow/itsdefwave?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
+   src="https://img.shields.io/twitter/follow/whatisupwave?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
    /></a>
   <a href="https://www.linkedin.com/in/enoch-omosebi-b68687224/">
     <img
