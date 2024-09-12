@@ -67,13 +67,13 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/m9m822dc0nd62nl6ldcoh145c">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=m9m822dc0nd62nl6ldcoh145c&count=6&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/m9m822dc0nd62nl6ldcoh145c" style="margin-right: 20px;">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=m9m822dc0nd62nl6ldcoh145c&count=6&unique=true" alt="Spotify recently played" />
   </a>
-  <a href="https://app.daily.dev/hi_wave"><img src="https://api.daily.dev/devcards/v2/MNWnJhKoH6GXWGHK9bOlh.png?type=default&r=su3" width="250" alt="Enoch's Dev Card"/>
+  <a href="https://app.daily.dev/hi_wave">
+    <img src="https://api.daily.dev/devcards/v2/MNWnJhKoH6GXWGHK9bOlh.png?type=default&r=su3" width="300" alt="Enoch's Dev Card" />
   </a>
 </div>
-
 
 
 ###
