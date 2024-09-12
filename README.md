@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="./waveGitHub.gif" />
+<img align="right" height="150" src="https://res.cloudinary.com/dt17yxxxq/image/upload/v1726160188/stdjmgtgacqv5fc20ola.gif" />
 
 ###
 
