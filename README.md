@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="imgur.com/a/MlEvnSG"  />
+<img align="right" height="150" src="Enochthedev/Enochthedev/waveGitHub.gif" />
 
 ###
 
@@ -54,6 +54,8 @@
   </a>
   <a href="https://medium.com/@whatisupwave" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+  <a href="https://app.daily.dev/hi_wave"><img src="https://api.daily.dev/devcards/v2/MNWnJhKoH6GXWGHK9bOlh.png?type=default&r=su3" width="356" alt="Enoch's Dev Card"/>
   </a>
 </div>
 
