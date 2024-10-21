@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Enoch and I'm a back-end engineer, from lagos. <br>I'm the founder of wave studio and the coffee room</h2>
+<h2 align="left">Hi 👋! My name is Enoch and I'm a back-end engineer, from lagos. <br>I'm the founder of Wave Studio and The Coffee Room</h2>
 
 ###
 
